@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kizer321 (Krzysztof Szudy
+- 👋 Hi, I’m Krzysztof Szudy
 - 👀 I’m interested in data analis, Business things and IT
-- 🌱 I’m currently learning big data, python, and basics of machine learning
+- 🌱 I’m currently learning big data, python, c++
 - 📫 How to reach me?
 - via email: krzys.szudy@gmail.com
 -via linkedin : linkedin.com/in/krzysztof-szudy-744171253
